@@ -7,7 +7,7 @@ Full Stack Developer
 Hello, I'm a young developer who loves technology, solving problems and learning more and more.
 I like to feel challenged and I love the feeling of duty long after solving a problem.
 I consider myself very good at working as a team, thinking about how to build a new project or new functionality.
-I also love teaching what I learn, so if you're interested. You can follow the content I create on Instagram and/or Linkedin.
+I also love teaching what I learn, so if you're interested, you can follow the content i create on Instagram and/or Linkedin.
 
 * 🌍  I'm based in Brasil, Chapecó
 * ✉️  You can contact me at [phhcpedrohhcunha@gmail.com](mailto:phhcpedrohhcunha@gmail.com)
